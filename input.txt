@@ -1,0 +1,10 @@
+i bake
+i cake
+i dake
+i ache
+i fake
+i cab
+i cash
+p
+d 'r10 r11 r01'
+q
